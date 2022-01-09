@@ -1,5 +1,5 @@
 # Super Mario Bros Vs.
-Un upgrade to (my second Unity and C# project)[https://github.com/ereldebel/super-mario-bros].
+Un upgrade to [my second Unity and C# project](https://github.com/ereldebel/super-mario-bros).
 In this project I took all I did with the _Super Mario bros._ recreation and tried making something different from it.
 The result is a local Player Vs. Player (Mario Vs. Luigi) race to the top of the castle.
 
